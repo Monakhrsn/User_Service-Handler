@@ -1,0 +1,11 @@
+/Users/RiderProjects/Exercise_4/Business/bin/Debug/net9.0/Business.deps.json
+/Users/RiderProjects/Exercise_4/Business/bin/Debug/net9.0/Business.dll
+/Users/RiderProjects/Exercise_4/Business/bin/Debug/net9.0/Business.pdb
+/Users/RiderProjects/Exercise_4/Business/obj/Debug/net9.0/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/RiderProjects/Exercise_4/Business/obj/Debug/net9.0/Business.AssemblyInfoInputs.cache
+/Users/RiderProjects/Exercise_4/Business/obj/Debug/net9.0/Business.AssemblyInfo.cs
+/Users/RiderProjects/Exercise_4/Business/obj/Debug/net9.0/Business.csproj.CoreCompileInputs.cache
+/Users/RiderProjects/Exercise_4/Business/obj/Debug/net9.0/Business.dll
+/Users/RiderProjects/Exercise_4/Business/obj/Debug/net9.0/refint/Business.dll
+/Users/RiderProjects/Exercise_4/Business/obj/Debug/net9.0/Business.pdb
+/Users/RiderProjects/Exercise_4/Business/obj/Debug/net9.0/ref/Business.dll

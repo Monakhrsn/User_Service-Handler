@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Name": "ara",
+    "Type": "RegularUser"
+  },
+  {
+    "Id": 2,
+    "Name": "mona",
+    "Type": "AdminUser"
+  },
+  {
+    "Id": 3,
+    "Name": "sohail",
+    "Type": "RegularUser"
+  },
+  {
+    "Id": 4,
+    "Name": "Sohail",
+    "Type": "AdminUser"
+  },
+  {
+    "Id": 5,
+    "Name": "shadi",
+    "Type": "RegularUser"
+  },
+  {
+    "Id": 6,
+    "Name": "samira",
+    "Type": "AdminUser"
+  },
+  {
+    "Id": 7,
+    "Name": "sana",
+    "Type": "RegularUser"
+  },
+  {
+    "Id": 8,
+    "Name": "suzan",
+    "Type": "AdminUser"
+  }
+]
